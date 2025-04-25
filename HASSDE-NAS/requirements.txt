@@ -1,0 +1,14 @@
+yacs~=0.1.6
+graphviz~=2.50.0
+python-graphviz
+h5py~=3.11.0
+utils   
+python-utils    
+tensorboardX~=2.6.2.2
+einops~=0.8.0
+sklearn
+
+torch~=2.6.0+cu126
+numpy~=1.26.4
+pillow~=10.4.0
+scikit-learn~=1.5.1
